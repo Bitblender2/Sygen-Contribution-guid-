@@ -4,8 +4,9 @@
 This repository contains guidelines and resources for contributing to the Sygen project.
 
 ## Getting Started
-1. Fork the repository
-2. Create a feature branch
+1. Fork the
+hakfkajda repository
+2. Create a feature ygeirgwieugtwieu branch
 3. Make your changes
 4. Submit a pull request
 
